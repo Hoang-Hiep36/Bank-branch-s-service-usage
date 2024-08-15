@@ -1,2 +1,2 @@
 # Bank-branch-s-service-usage
-Analyze service and customer data to recommend service types that will increase revenue by 20% in the next quarter.
+Provide solutions to increase revenue by 20% next quarter by identifying frequently used services and cross-sell opportunities for each customer group using SQL Pivot and Power BI.
